@@ -21,7 +21,7 @@ example:
 systemctl start apache2
 
 Save the files inside the /var/www/html/
-Alter the html name to: index.html
+change the html name to: index.html
 
 The configuration is all done. Now you gotta to access your ip machine, example: 192.168.1.10
 The page will be loaded on the browser.
